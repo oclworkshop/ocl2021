@@ -32,6 +32,9 @@ modeling language concepts and modeling language use. The close interaction
 will enable researchers and practitioners to identify common interests
 and options for potential cooperation.
 
+OCL 2021 will be part of the *Software Technologies: Applications and Foundations* 
+federated conferences ([STAF 2021](https://staf2021.hvl.no/)).
+
 ## Topics of interest
 
 Topics of interest include (but are not limited to):
