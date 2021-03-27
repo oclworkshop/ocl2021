@@ -91,7 +91,7 @@ Four types of submissions will be considered:
   textual modeling tools
 * Full papers (between 10 and 14 pages).
 
-All submissions should follow the CEUR 1 column style 
+All submissions should follow the **CEUR 1 column style** 
 (available from [CEUR](http://ceur-ws.org/Vol-XXX/CEURART.zip) or 
 [Overleaf](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk)) 
 and should be uploaded to [EasyChair](https://easychair.org/conferences/?conf=ocl2021).
