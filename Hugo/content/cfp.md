@@ -91,10 +91,10 @@ Four types of submissions will be considered:
   textual modeling tools
 * Full papers (between 10 and 14 pages).
 
-All submissions should follow the 
-[Springer  LNCS  format  guidelines](ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip) 
-and should be
-uploaded to EasyChair (submission link removed).
+All submissions should follow the CEUR 1 column style 
+(available from [CEUR](http://ceur-ws.org/Vol-XXX/CEURART.zip) or 
+[Overleaf](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk)) 
+and should be uploaded to [EasyChair](https://easychair.org/conferences/?conf=ocl2021).
 
 The program committee will review the submissions (minimum 2 reviews
 per paper, usually 3 reviews) and select papers according to their
@@ -107,8 +107,8 @@ workshop. Accepted papers will be published online in
 - **Abstract submission:**     Apr 27 2021, AoE 
 - **Paper submission:**        May 4 2021, AoE 
 - **Notification:**            May 25 2021, AoE
-- **Pre-Workshop CRC:**        To be announced  
-- **Workshop:**                To be announded (between June 21-June 25 2021) 
-- **Post-Workshop CRC:**       To be announced  
+- **Pre-Workshop CRC:**        June 15 2021  
+- **Workshop:**                June 25 2021 
+- **Post-Workshop CRC:**       July 25 2021  
 
 Should you have any problem to meet the deadlines, please contact the organizers.
