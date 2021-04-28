@@ -13,7 +13,7 @@ title = "Important dates"
 
 The important dates you should bear in mind for the workshop are the following:
 
-- **Abstract submission:**     Apr 27 2021, AoE 
+- **Abstract submission:**     ~~Apr 27 2021, AoE~~ May 4 2021, AoE (Extended) 
 - **Paper submission:**        May 4 2021, AoE       
 - **Notification:**            May 25 2021, AoE
 - **Pre-Workshop CRC:**        June 15 2021  
