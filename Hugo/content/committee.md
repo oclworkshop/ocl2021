@@ -21,7 +21,7 @@ title = "Committee"
 * Martin Gogolla, University of Bremen, Germany
 * Frédéric Jouault, ESEO-TECh, France
 * Sina Madani, University of York, UK
-* Denis Nikiforov, Centre of Information Technology, Russia
+* Denis Nikiforov, Advalange, Russia
 * Xavier Oriol, UPC-Barcelona Tech, Spain
 * István Ráth, Budapest University of Technology and Economics, Hungary
 * Jan Oliver Ringert, University of Leicester, UK
