@@ -25,4 +25,9 @@ title = "Program"
 15:00 - 15:30	**Coffee Break**			
 
 15:30 - 17:00	**Session 3 - Chair: Daniel Calegari**  
-* 15:30 - 17:00: Panel Discussion + Lightning talks	 	
+* 15:30 - 17:00: Panel Discussion + Lightning talks  
+  **Title:** "A SWOT analysis of OCL and textual modeling"  
+  **Panelists:**  
+    * Martin Gogolla. *University of Bremen*
+    * Antonio Vallecillo. *Universidad de Málaga*
+    * Jordi Cabot. *ICREA*
